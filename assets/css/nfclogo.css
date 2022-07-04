@@ -1,0 +1,10 @@
+#nfcbrackets{
+    height: 20%;
+    width: 30%;
+}
+@media (max-width: 500px) {
+    #nfcbrackets{
+        height: 60%;
+        width: 80%;
+    }
+  }
